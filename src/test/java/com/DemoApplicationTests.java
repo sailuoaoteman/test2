@@ -37,7 +37,7 @@ public class DemoApplicationTests {
     public void test22222(){
         List<Works> list = ws.findAll();
         System.out.println(list);
-
+        System.out.println("sss");
 
     }
 
